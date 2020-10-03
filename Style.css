@@ -1,0 +1,25 @@
+h1{
+    background-color:aqua; 
+    color:brown
+}
+
+body{
+    background-color:coral
+}
+
+
+.header{
+    background-color: chartreuse;
+    display:flex;
+}
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
